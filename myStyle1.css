@@ -33,7 +33,7 @@ img.displayed
 {
 	background-color: #FF0000;
 	border: 2px solid grey;
-	height: 60px;
+	height: 40px;
 	left: 0;
 	position: fixed;
 	width: 100%;
@@ -41,7 +41,7 @@ img.displayed
 }
 #header
 {
-	line-height: 60px;
+	line-height: 40px;
 	margin:0 auto;
 	text-align: center;
 	width: 440px;
@@ -52,14 +52,14 @@ img.displayed
 	background-color: #FF0000;
 	border: 2px solid grey;
 	bottom: 0;
-	height: 60px;
+	height: 40px;
 	left: 0;
 	position: fixed;
 	width: 100%;
 }
 #footer 
 {
-	line-height: 60px;
+	line-height: 40px;
     margin:0 auto;
     width: 440px;
 	text-align: center;
