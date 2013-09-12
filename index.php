@@ -8,6 +8,6 @@
 
 <?php
 	echo "Welcome to Project 1!";
-
+?>
 </body>
 </html>
