@@ -14,9 +14,10 @@
 	</div>
 </div>		
 
-<h1> <?php echo "Robbie Constantin"; ?> </h1>
+<h1> Robbie Constantin </h1>
 
-<img class="displayed" src="photo.JPG">
+<!-- photo for decoration purposes setting alt "" -->
+<img class="displayed" src="photo.JPG" alt="">
 
 <h1> Bio </h1>
 
