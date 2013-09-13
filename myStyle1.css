@@ -1,3 +1,7 @@
+body
+{
+	background-color: #008500;
+}
 h1
 {
 	padding-top: 40px;
@@ -28,6 +32,7 @@ img.displayed
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	border:0;
 }
 #header_container 
 {

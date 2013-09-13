@@ -6,7 +6,7 @@
 <link rel="stylesheet" href="myStyle1.css">
 </head>
 
-<body bgcolor=#008500>
+<body>
 
 <div id="header_container">
 	<div id="header">
@@ -16,7 +16,7 @@
 
 <h1> <?php echo "Robbie Constantin"; ?> </h1>
 
-<img class="displayed" src="photo.JPG" border=5>
+<img class="displayed" src="photo.JPG">
 
 <h1> Bio </h1>
 
