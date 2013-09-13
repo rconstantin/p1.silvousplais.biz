@@ -6,9 +6,7 @@
 <link rel="stylesheet" href="myStyle1.css">
 </head>
 
-<body>
-
-<body bgcolor=#008500>	
+<body bgcolor=#008500>
 
 <div id="header_container">
 	<div id="header">
