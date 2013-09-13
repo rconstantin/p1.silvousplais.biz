@@ -13,4 +13,4 @@ Requirements:
 
 Index.php contains the HTML code while CSS style was separated into myStyle1.css for better organization and neatness (req 2)
 
-references - myStyle1.css: sticky header & footer code was based in jsfiddle.net. 	
+references - myStyle1.css: sticky header & footer code was based on code from jsfiddle.net. 	
